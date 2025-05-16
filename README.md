@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Antoine Moitessier and I work at Molecular Forecaster Inc. (MFI).
-- 👀 I’m interested in developing tools in computational chemistry and machine learning tools.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# About me
+Hi, I’m Antoine Moitessier and I am a Master's student in Cheminformatics and I also work at Molecular Forecaster Inc. (MFI).
+I’m interested in developing tools in computational chemistry, particularly machine learning (ML) and phyics-based tools.
+I’m currently learning about different ML methods, such as deep learning, for chemistry purposes, and implementing those to MFI's workflows.
+I’m looking to collaborate on different ML projects, especially those related to drug discovery.
 
-<!---
-AMoitessMFI/AMoitessMFI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact
+Mail: antoine.moitessier@molecularforecaster.com
+[LinkedIn](https://www.linkedin.com/in/antoine-moitessier/)
