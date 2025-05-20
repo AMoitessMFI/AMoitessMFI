@@ -6,6 +6,6 @@ I’m looking to collaborate on different ML projects, especially those related 
 
 ## Contact
 Mail: antoine.moitessier@molecularforecaster.com
-[Mail](mailto:antoine.moitessier@molecularforecaster.com)
+ [Mail](antoine.moitessier@molecularforecaster.com)
 
-[LinkedIn](https://www.linkedin.com/in/antoine-moitessier/)
+ [LinkedIn](https://www.linkedin.com/in/antoine-moitessier/)
