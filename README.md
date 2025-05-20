@@ -5,5 +5,5 @@ I’m currently learning about different ML methods, such as deep learning, for 
 I’m looking to collaborate on different ML projects, especially those related to drug discovery.
 
 ## Contact
-Mail: antoine.moitessier@molecularforecaster.com
- [LinkedIn](https://www.linkedin.com/in/antoine-moitessier/)
+Mail: antoine.moitessier@molecularforecaster.com\
+[LinkedIn](https://www.linkedin.com/in/antoine-moitessier/)
