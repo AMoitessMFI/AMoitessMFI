@@ -1,3 +1,5 @@
+![Antoine Moitessier's picture with a Molecular Forecaster background.](C:\Users\amoitessier\Desktop\MFI\Admin\Photos\Antoine_MFI.jpg)
+
 # About me
 Hi, I’m Antoine Moitessier and I am a Master's student in Cheminformatics and I also work at Molecular Forecaster Inc. (MFI).
 I’m interested in developing tools in computational chemistry, particularly machine learning (ML) and phyics-based tools.
