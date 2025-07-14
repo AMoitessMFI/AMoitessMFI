@@ -1,8 +1,7 @@
 # About me
-I recently obtained my M.Sc. in Cheminformatics from the University of Strasbourg and I also work at Molecular Forecaster Inc. (MFI) as an Associate Scientist III.
-I’m interested in developing tools in computational chemistry, particularly machine learning (ML) and physics-based tools.
-I’m currently learning about different ML methods, such as deep learning, for chemistry purposes, and implementing those to MFI's workflows.
-I’m looking to collaborate on different computational projects, especially those related to drug discovery.
+I hold an M.Sc. in Cheminformatics from the University of Strasbourg and currently work as an Associate Scientist III at Molecular Forecaster Inc. (MFI). My primary interests lie in developing computational chemistry tools, with a focus on machine learning and physics-based approaches.
+
+At MFI, I’m actively exploring and integrating various ML methods into drug discovery workflows. I enjoy bridging scientific research with practical applications and am always looking to collaborate on innovative computational projects, particularly in the drug discovery space.
 
 ## Contact
 antoine.moitessier@molecularforecaster.com\
